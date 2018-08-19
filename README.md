@@ -27,7 +27,15 @@ Step 1:
   
 - Software:
   
-  Microsoft Windows 10 Enterprise, Microsoft Visual Studio 2017, <a href="https://dev.mysql.com/downloads/mysql/">MySQL Server 5.7</a>, CMake Latest Release (3.12.1), <a href="https://github.com/openscenegraph/OpenSceneGraph/tree/OpenSceneGraph-3.6.2">OpenSceneGraph 3.6.2</a>
+  Microsoft Windows 10 Enterprise
+  
+  Microsoft Visual Studio 2017
+  
+  <a href="https://dev.mysql.com/downloads/mysql/">MySQL Server 5.7</a>
+  
+  <a href="https://cmake.org/files/v3.12/cmake-3.12.1-win64-x64.zip">CMake Latest Release (3.12.1)</a>
+  
+  <a href="https://github.com/openscenegraph/OpenSceneGraph/tree/OpenSceneGraph-3.6.2">OpenSceneGraph 3.6.2</a>
 
 
 Donation VIA Paypal [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZQUL4M8A3W4V6)
