@@ -18,6 +18,7 @@ Step 1:
   2 C++ Coding (OpenSceneGraph - Qt)
   
 - Hardware:
+
   5 Computer Core i7 NVIDIA 1080 SSD 512
 
   7 Monitor Dell Ultrasharp U2417H (4 for Modeling 2 for Coding and 1 for Cheking)
