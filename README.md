@@ -7,7 +7,7 @@ http://www.yumeiho-do.com/AtlasofHumanAnatomy.pdf
 
 OpenSceenGraph C++, MySQL Server, .NET Core API 
 
-Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobile, Laparoscopic surgery simulation with haptic, Arduino Projects "CPR, ...").
+Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobile, Laparoscopic surgery simulation with haptic, CPR Arduino Projects 3D Simulation, ...).
 
 - Membership
 
