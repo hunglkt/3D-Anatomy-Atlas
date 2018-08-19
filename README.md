@@ -5,7 +5,7 @@ The go-to anatomy reference app for healthcare professionals, students, and prof
 
 http://www.yumeiho-do.com/AtlasofHumanAnatomy.pdf
 
-OpenSceenGraph C++, MySQL Server
+OpenSceenGraph C++, MySQL Server, .NET Core API 
 
 Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobile, Laparoscopic surgery simulation with haptic, Arduino Projects "CPR, ...").
 
