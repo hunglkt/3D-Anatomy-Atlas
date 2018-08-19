@@ -3,6 +3,8 @@ The go-to anatomy reference app for healthcare professionals, students, and prof
 
 3D Anatomy Atlas is open source for Universities, Hospital, Medical...
 
+http://www.yumeiho-do.com/AtlasofHumanAnatomy.pdf
+
 OpenSceenGraph C++, MySQL Server
 
 Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobile, Laparoscopic surgery simulation with haptic, Arduino Projects "CPR, ...").
@@ -11,7 +13,7 @@ Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobil
 
   1 Manager
   
-  2 3D Modeler for 3D Model from Image - Document - XRay
+  2 3D Modeler for 3D Model from Image - Document - XRay (<a href="http://www.yumeiho-do.com/AtlasofHumanAnatomy.pdf">Atlas of Human Anatomy of Dr. Frank Netter</a>)
 
   1 Doctor checking
 
