@@ -24,7 +24,7 @@ Step 1:
   7 Monitor Dell Ultrasharp U2417H (4 for Modeling 2 for Coding and 1 for Cheking)
 
 
-Donation VIA Paypal [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZQUL4M8A3W4V6)
+Donation VIA Paypal [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZQUL4M8A3W4V6)
 
 Donation VIA Bitcoin: 12qLkeBrxKYtd5rqyc75JDDVbmKDFCcZf9
 
