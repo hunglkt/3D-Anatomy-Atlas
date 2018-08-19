@@ -1,4 +1,4 @@
-# atlas-human-3d
+# 3D Anatomy Atlas
 The go-to anatomy reference app for healthcare professionals, students, and professors. Offers limitless views inside the human body.
 Atlas Human 3D is source code free for universities, hospital, medical...
 OpenSceenGraph C++, Qt, MySQL Server
