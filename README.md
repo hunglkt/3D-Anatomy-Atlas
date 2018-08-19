@@ -1,12 +1,12 @@
 # 3D Anatomy Atlas
 The go-to anatomy reference app for healthcare professionals, students, and professors. Offers limitless views inside the human body.
-3D Anatomy Atlas is source code free for Universities, Hospital, Medical...
+
+3D Anatomy Atlas is open source for Universities, Hospital, Medical...
 
 OpenSceenGraph C++, MySQL Server
 
 Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobile, Laparoscopic surgery simulation with haptic, Arduino Projects "CPR, ...").
 
-Step 1: 
 - Membership
 
   1 Manager
@@ -40,9 +40,6 @@ Step 1:
   <a href="https://www.blender.org/download/">Blender</a>
   
   
-
-
-Donation VIA Paypal [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZQUL4M8A3W4V6)
 
 Donation VIA Bitcoin: 12qLkeBrxKYtd5rqyc75JDDVbmKDFCcZf9
 
