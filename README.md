@@ -46,3 +46,5 @@ Guide to Developing an Atlas Human 3D System in 6 month (Extended: AR, VR, Mobil
 Donation VIA Bitcoin: 12qLkeBrxKYtd5rqyc75JDDVbmKDFCcZf9
 
 Donation VIA Ethereum: 0x2ccf05f18b3a903c64829306f8630103972e322a
+
+Donation VIA Sirinlabs Token: 0x2ccf05f18b3a903c64829306f8630103972e322a
